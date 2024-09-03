@@ -1,0 +1,39 @@
+body {
+    background-color: #0a0a23;
+    color: white;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    background-color: #0a0a09;
+    margin: 20px auto;
+    width: 500px;
+    flex-wrap: wrap;
+}
+
+input {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    font-size: 1.2rem;
+    padding: 2px;
+}
+
+.submit {
+    margin-bottom: 25px !important;
+    background-color: orange;
+    color: black;
+}
+
+p {
+    width: 100%;
+    font-size: 1.4rem;
+}
+
+form p {
+    font-size: 1.2rem;
+    margin-top: 10px; 
+    
+}
